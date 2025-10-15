@@ -63,3 +63,9 @@ This project demonstrates the application of various regression models and ensem
 ## 6. Gradio Interface
 
 A Gradio interface was created to allow interactive predictions from all implemented models and ensemble methods. This interface takes the 'Junction', 'Month', 'Day', and 'Hour' as input and provides the predicted traffic volume from each model. The interface can be launched from the notebook to test predictions with custom inputs.
+
+## 7. Installation
+For installing the required dependencies, run the following command on your terminal: 
+`pip install pandas os sklearn.model_selection torch torch.nn torch.optim torch.utils.data sklearn.metrics numpy matplotlib.pyplot sklearn.tree sklearn.metrics sklearn.ensemble sklearn.neighbors sklearn.metrics snntorch sklearn.linear_model sklearn.model_selection gradio inspect`
+or 
+Run the above command as the first cell in your .ipynb preceded by apostrophe `!`
