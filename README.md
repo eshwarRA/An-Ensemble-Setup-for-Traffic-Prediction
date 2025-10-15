@@ -66,6 +66,7 @@ A Gradio interface was created to allow interactive predictions from all impleme
 
 ## 7. Installation
 For installing the required dependencies, run the following command on your terminal: 
-`pip install pandas os sklearn.model_selection torch torch.nn torch.optim torch.utils.data sklearn.metrics numpy matplotlib.pyplot sklearn.tree sklearn.metrics sklearn.ensemble sklearn.neighbors sklearn.metrics snntorch sklearn.linear_model sklearn.model_selection gradio inspect`
+>`pip install pandas os sklearn.model_selection torch torch.nn torch.optim torch.utils.data sklearn.metrics numpy matplotlib.pyplot sklearn.tree sklearn.metrics sklearn.ensemble sklearn.neighbors sklearn.metrics snntorch sklearn.linear_model sklearn.model_selection gradio inspect`
+
 or 
 Run the above command as the first cell in your .ipynb preceded by apostrophe `!`
